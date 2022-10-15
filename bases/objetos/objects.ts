@@ -6,16 +6,16 @@
         powers: ['Super Velocidad','Viajar en el tiempo']
     }
 
-    // flash = {
-    //     name: 'Clark Kent',
-    //     // age:60,
-    //     powers: ['Super Fuerza'],
-    //     getName(){
-    //         return this.name;
-    //     }
-    // }
+    flash = {
+        name: 'Clark Kent',
+        // age:60,
+        powers: ['Super Fuerza'],
+        getName(){
+            return this.name;
+        }
+    }
 
-    //     console.log(flash);
+        console.log(flash);
 
     
 

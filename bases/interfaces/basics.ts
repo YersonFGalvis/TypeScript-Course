@@ -1,6 +1,6 @@
 (()=>{
 
-    type Hero = {
+    interface Hero{
         name: string;
         age?:number;
         powers:string[]; 
@@ -19,9 +19,7 @@
         powers: ['Super Velocidad']
     }
 
-type player = string|boolean
 
-let Gamer:player = true;
 
 
 })()
